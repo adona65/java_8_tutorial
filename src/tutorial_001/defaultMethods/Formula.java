@@ -1,4 +1,4 @@
-package tutorial.defaultMethods;
+package tutorial_001.defaultMethods;
 
 public interface Formula {
     double calculate(int a);

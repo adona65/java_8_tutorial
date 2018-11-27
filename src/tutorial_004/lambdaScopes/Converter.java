@@ -1,4 +1,4 @@
-package tutorial.lambdaExpressions;
+package tutorial_004.lambdaScopes;
 
 @FunctionalInterface
 public interface Converter<F, T> {

@@ -1,11 +1,11 @@
-package tutorial.lambdaExpressions;
+package tutorial_002.lambdaExpressions;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import tutorial.lambdaExpressions.Converter;
+import tutorial_002.lambdaExpressions.Converter;
 
 public class LambdaExpressionsTest {
 
