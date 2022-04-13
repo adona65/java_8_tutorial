@@ -5,8 +5,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import tutorial_002.lambdaExpressions.Converter;
-
 public class LambdaExpressionsTest {
 
 	public static void main(String args[]) {

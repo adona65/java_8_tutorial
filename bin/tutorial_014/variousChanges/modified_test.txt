@@ -1,5 +1,0 @@
-first line
-toto like ice-cream
-tutu doesn't
-titi perhaps
-print('foobar');
