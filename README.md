@@ -1,7 +1,9 @@
 # java_8_tutorial
 Contains tests and tutorials about java 8 new features.
-
-Java 8 release date : March 2014.
-
-Sources I used for java 8 training :
+<br/>
+<br/>
+<u><b>Java 8 release date :</u></b> March 2014.
+<br/>
+<br/>
+<u>Sources I used for java 8 training :</u>
 - https://winterbe.com (posts about java 8).
